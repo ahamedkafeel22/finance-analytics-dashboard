@@ -122,7 +122,7 @@ Total COGS = SUM(finance_clean[COGS])
 
 Net Profit = SUM(finance_clean[Profit])
 
-Profit Margin % = DIVIDE([Net Profit], [Total Sales], 0)
+Profit Margin % (M) = DIVIDE([Net Profit], [Total Sales], 0)
 
 Revenue Growth % =
 DIVIDE(
