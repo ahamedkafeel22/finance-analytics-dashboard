@@ -11,6 +11,17 @@
 
 ---
 
+## 🏢 Business Understanding
+
+| | |
+|---|---|
+| **Business Problem** | Mid-to-large organizations struggle to get a consolidated, real-time view of financial performance across departments and segments. Finance data is scattered across Excel sheets, ERP systems, and manual reports — causing delayed decision-making, budget overruns, and poor visibility into profitability drivers. |
+| **Business Objective** | Build an interactive, executive-level financial analytics dashboard that consolidates revenue, expenses, profit margins, and cash flow data — enabling CFOs and finance managers to monitor organizational financial health in real time and make faster, data-driven strategic decisions. |
+| **Business Constraint** | Dashboard must be accessible to non-technical executives (no SQL or coding required), support drill-down by segment, country, and time period, and provide forward-looking 6-month revenue forecasts alongside historical analysis. |
+| **Business Success Criteria** | CFO and finance leadership can independently monitor all key financial KPIs, run ad-hoc segment analysis, and generate executive reports — replacing 10+ manual Excel reports with a single self-serve dashboard. |
+| **ML Success Criteria** | Power BI forecasting model achieves ≤ 10% MAPE on 6-month revenue projections; all DAX KPI calculations validated against source data with 100% accuracy. |
+| **Economic Success Criteria** | Consolidating 10+ manual monthly reports (est. 40 hrs/month @ $50/hr) saves $24,000/year in finance team time. Faster identification of cost overruns and margin dips enables 5–10% expense optimization — saving $500K–$1M annually for a $10M+ revenue organization. |
+
 ## 🔎 Project Overview
 
 An interactive **Finance Analytics Dashboard** developed in Power BI to monitor organizational financial performance, profitability trends, operational expenses, and cash flow behavior across 2013–2014.
